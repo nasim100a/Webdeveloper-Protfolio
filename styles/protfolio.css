@@ -183,3 +183,59 @@ margin-top:130px ;
 margin-bottom: 130px;
 
 }
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.experience-sub-title{
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+    font-size: 12px;
+}
+.section-title{
+    text-align: center;
+}
+.resume{
+    text-align: center;
+}
+.resume-button{
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    padding: 130px 230px;
+    gap: 100px;
+}
+.footer-column{
+    width: 50%;
+}
+footer input[type="text"]{
+width: 200px;
+height: 40px;
+border-radius: 5px;
+background-color: white;
+padding: 18px 349px 18px 30px;
+}
+input[type="email"]{
+
+    width: 200px;
+height: 40px;
+border-radius: 5px;
+background-color: white;
+padding: 18px 349px 18px 30px;
+}
+textarea{
+     width: 200px;
+height: 150px;
+border-radius: 5px;
+background-color: white;
+padding: 18px 349px 18px 30px;
+
+}
+input{
+    margin-bottom:20px ;
+}
